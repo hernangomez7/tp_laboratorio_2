@@ -1,0 +1,14 @@
+D:\VisualStudio\Ejercicio37\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\VisualStudio\Ejercicio37\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\VisualStudio\Ejercicio37\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\VisualStudio\Ejercicio37\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicio37\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\VisualStudio\Ejercicio37\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\Ashtray\Desktop\programacion 2\ProgII-master\Ejercicio37\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Ashtray\Desktop\programacion 2\ProgII-master\Ejercicio37\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\Ashtray\Desktop\programacion 2\ProgII-master\Ejercicio37\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\lab prog2\ZpenR\Ejercicio37\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\lab prog2\ZpenR\Ejercicio37\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\lab prog2\ZpenR\Ejercicio37\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+D:\lab prog2\ZpenR\Ejercicio37\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\lab prog2\ZpenR\Ejercicio37\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
